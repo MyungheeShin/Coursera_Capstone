@@ -1,4 +1,19 @@
-< 
+< Developing model for effective implement of Disposal Cup Deposit system >
 
+ Korean goverment is going to implement Disposal cup Deposit system in 2022. 
+ Disposal cup Deposit system is that promotes the return of disposable cups discharged out of the store
+ by charging a certain amount of disposable cups and refunding the cup amount when returning used cups.
+ There is a law named 'ACT ON THE PROMOTION OF SAVING AND RECYCLING OF RESOURCES' about this system.
+ But there is no specific implementation plan about the number of cafes which should be participated in this system.
+ As you know, Environmental pollution is a very serious problem thesedays.
+ We should try to recycle items, reduce the amount of trash.
+ 
+ Therefore, I would like to analyze the data and recommand Policy suggestions about Disposal cup Deposit system.
+ I will use the data about cafe sales figures, the number and location of cafes, the number and location of offices,
+ the number and location of cultural facilities, the number and location of bus stops, the number and location of subway stations in seoul and so on.
+ So, I try to find out the degree of necessity of Disposal cup Deposit system by region of seoul.
+ And I will find out the number of cafes or unmanned recovery machine for this system by region in seoul Gangnamgu.
+ With this calculating model, We can find out a useful information in other region in Korea.
+ 
+ By this suggestion, I hope I can help preventing our environment effectively.
 
-ACT ON THE PROMOTION OF SAVING AND RECYCLING OF RESOURCES
